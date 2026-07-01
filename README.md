@@ -49,3 +49,8 @@ Cada vez más evidencia digital vive en la nube: correo, almacenamiento, backups
 Los detalles técnicos, instalación y uso de cada herramienta están en sus repositorios correspondientes.
 
 ---
+
+## Participantes
+[GitHub](https://github.com/Borde00) · [LinkedIn](https://www.linkedin.com/in/adelin-florian-bordeianu)
+[GitHub](https://github.com/Chugo05) · [LinkedIn](https://www.linkedin.com/in/hugo-cabana-3a1324352)
+
