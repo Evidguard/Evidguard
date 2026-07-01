@@ -51,6 +51,10 @@ Los detalles técnicos, instalación y uso de cada herramienta están en sus rep
 ---
 
 ## Participantes
+
+Adelin Florian Bordeianu
 [GitHub](https://github.com/Borde00) · [LinkedIn](https://www.linkedin.com/in/adelin-florian-bordeianu)
+
+Hugo Cabana de la Cruz
 [GitHub](https://github.com/Chugo05) · [LinkedIn](https://www.linkedin.com/in/hugo-cabana-3a1324352)
 
