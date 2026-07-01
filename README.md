@@ -58,3 +58,12 @@ Adelin Florian Bordeianu
 Hugo Cabana de la Cruz
 [GitHub](https://github.com/Chugo05) · [LinkedIn](https://www.linkedin.com/in/hugo-cabana-3a1324352)
 
+José González Muñoz
+[GitHub](https://github.com/MxWSlayer) · [LinkedIn](https://www.linkedin.com/in/josé-gonzález-muñoz-762a8b3a1)
+
+Beltrán San Miguel Labrada
+[GitHub](https://github.com/beltraan-sm) · [LinkedIn](https://www.linkedin.com/in/beltrán-san-miguel-labrada-b1a93a417)
+
+
+
+
